@@ -1,4 +1,4 @@
-# GoogleHompage
+# GoogleHomepage
 my google hompage created with odin project
 in retrospect i should have used relative mesurments rather than fixed ones 
 understood the value of <path> i would love to learn to make things with path 
